@@ -8,3 +8,5 @@
 5. Push the changes to your repository<br />
 6. Merge the changes with the main repository<br />
 7. open the link ```https://bit.ly/ghcc-workshop-website``` in your browser
+
+## Server images
