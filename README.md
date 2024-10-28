@@ -7,7 +7,6 @@
 4. Add your full name to the .txt file<br />
 5. Push the changes to your repository<br />
 6. Merge the changes with the main repository<br />
-7. open the link ```https://bit.ly/ghcc-workshop-website``` in your browser
 
 ## Server images
 ![WhatsApp Image 2024-09-27 at 02 29 29_eea74fda](https://github.com/user-attachments/assets/cd28cfe9-df94-43c9-86be-1813904b088f)
